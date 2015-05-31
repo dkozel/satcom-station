@@ -9,7 +9,7 @@ Source files for the T-joint. This early file was done in [FreeCad](http://www.f
 
 The item is admitedely badly overengineered - it is heavy and so stiff, that the tightening screw will probably not work. I will probably re-do this part in Solidworks to make it significantly lighter. 
 
-The freecad is an impressive attempt at modern parametric modelling; however, being free, it is not as refined as solidworks (yet). After doing printing this part and explaining to the fablab manager what the project is about, I got a lease of solidworks license. Altough not free, this is a really good, productivity-oriented software, so all the upcoming designs will be done there. I will always post the .stl files too.
+The [FreeCad](http://www.freecadweb.org/) is an impressive attempt at modern parametric modelling; however, being free, it is not as refined as my favourite [Solidworks](http://www.solidworks.com/sw/products/3d-cad/packages.htm) (yet). After printing this part and explaining to the fablab manager what the project is about, I got a lease of an actual Solidworks license. Altough not free, this is a really good, productivity-oriented software, so all the upcoming designs will be done there. I will always post the .STL files too.
 
 Printing with 0.3mm layer thickness yields an OK result.
 
@@ -25,7 +25,4 @@ Printing with 0.3mm layer thickness yields an OK result.
 
 
 ![](y-joint-v3-preview.jpg)
-
-
-
 
